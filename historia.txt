@@ -1,0 +1,3 @@
+este es un archivo de texto plano que se usa
+para probar el funcionamiento de respositorios Git
+texto
