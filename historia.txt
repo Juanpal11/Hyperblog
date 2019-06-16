@@ -1,3 +1,4 @@
 este es un archivo de texto plano que se usa
 para probar el funcionamiento de respositorios Git
-texto
+texto 
+pero falto agregar estos ultimos cambios
